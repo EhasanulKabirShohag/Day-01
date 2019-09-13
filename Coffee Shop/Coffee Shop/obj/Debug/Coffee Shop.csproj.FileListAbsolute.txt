@@ -1,0 +1,20 @@
+G:\Day-01\Coffee Shop\Coffee Shop\bin\Debug\Coffee Shop.exe.config
+G:\Day-01\Coffee Shop\Coffee Shop\bin\Debug\Coffee Shop.exe
+G:\Day-01\Coffee Shop\Coffee Shop\bin\Debug\Coffee Shop.pdb
+G:\Day-01\Coffee Shop\Coffee Shop\obj\Debug\Coffee Shop.csprojAssemblyReference.cache
+G:\Day-01\Coffee Shop\Coffee Shop\obj\Debug\Coffee_Shop.Sale.resources
+G:\Day-01\Coffee Shop\Coffee Shop\obj\Debug\Coffee_Shop.Properties.Resources.resources
+G:\Day-01\Coffee Shop\Coffee Shop\obj\Debug\Coffee Shop.csproj.GenerateResource.cache
+G:\Day-01\Coffee Shop\Coffee Shop\obj\Debug\Coffee Shop.csproj.CoreCompileInputs.cache
+G:\Day-01\Coffee Shop\Coffee Shop\obj\Debug\Coffee Shop.exe
+G:\Day-01\Coffee Shop\Coffee Shop\obj\Debug\Coffee Shop.pdb
+H:\Day-01\Coffee Shop\Coffee Shop\bin\Debug\Coffee Shop.exe.config
+H:\Day-01\Coffee Shop\Coffee Shop\bin\Debug\Coffee Shop.exe
+H:\Day-01\Coffee Shop\Coffee Shop\bin\Debug\Coffee Shop.pdb
+H:\Day-01\Coffee Shop\Coffee Shop\obj\Debug\Coffee Shop.csprojAssemblyReference.cache
+H:\Day-01\Coffee Shop\Coffee Shop\obj\Debug\Coffee_Shop.Sale.resources
+H:\Day-01\Coffee Shop\Coffee Shop\obj\Debug\Coffee_Shop.Properties.Resources.resources
+H:\Day-01\Coffee Shop\Coffee Shop\obj\Debug\Coffee Shop.csproj.GenerateResource.cache
+H:\Day-01\Coffee Shop\Coffee Shop\obj\Debug\Coffee Shop.csproj.CoreCompileInputs.cache
+H:\Day-01\Coffee Shop\Coffee Shop\obj\Debug\Coffee Shop.exe
+H:\Day-01\Coffee Shop\Coffee Shop\obj\Debug\Coffee Shop.pdb
